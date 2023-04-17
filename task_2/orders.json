@@ -1,7 +1,7 @@
 {
     "orders": [
         {
-            "item": "принтер",
+            "item": "\u043f\u0440\u0438\u043d\u0442\u0435\u0440",
             "quantity": "10",
             "price": "6700",
             "buyer": "Ivanov I.I.",
@@ -27,6 +27,27 @@
             "price": "10000",
             "buyer": "Petrov P.P.",
             "date": "11.01.2018"
+        },
+        {
+            "item": "book",
+            "quantity": 3,
+            "price": 5,
+            "buyer": "ann",
+            "date": "12.12.22"
+        },
+        {
+            "item": "book",
+            "quantity": 3,
+            "price": 5,
+            "buyer": "ann",
+            "date": "12.12.22"
+        },
+        {
+            "item": "\u043a\u043d\u0438\u0433\u0430",
+            "quantity": "book",
+            "price": "350",
+            "buyer": "Ann",
+            "date": "11/12/22"
         }
     ]
 }

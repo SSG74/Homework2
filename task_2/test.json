@@ -1,0 +1,39 @@
+{
+    "orders": [
+        {
+            "item": "\u043d\u043e\u0441\u043a\u0438",
+            "quantity": "20",
+            "price": "300",
+            "buyer": "\u041a\u043e\u043b\u044f",
+            "date": "23.02.23"
+        },
+        {
+            "item": "book",
+            "quantity": "10",
+            "price": "500",
+            "buyer": "Ann",
+            "date": "08.03.23"
+        },
+        {
+            "item": "car",
+            "quantity": "1",
+            "price": "580000",
+            "buyer": "Bob",
+            "date": "10.12.22"
+        },
+        {
+            "item": "\u0447\u0430\u0441\u044b",
+            "quantity": "2",
+            "price": "10000",
+            "buyer": "\u041c\u0438\u0445\u0430\u0438\u043b",
+            "date": "12.11.22"
+        },
+        {
+            "item": "\u0442\u0430\u043f\u043e\u043a",
+            "quantity": "5",
+            "price": "5",
+            "buyer": "5",
+            "date": "5"
+        }
+    ]
+}

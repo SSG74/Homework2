@@ -1,0 +1,9 @@
+items:
+- computer
+- printer
+- monitor
+items_price:
+  computer: 1000€
+  monitor: 150€
+  printer: 700€
+items_value: 5
